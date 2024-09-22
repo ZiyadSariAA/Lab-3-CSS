@@ -1,0 +1,25 @@
+
+
+.image-preview img{
+
+    border: 30px;
+border-style: solid;
+border-top-color: skyblue;
+border-right-color: lightpink;
+border-left-color: #ffefd5;
+border-bottom-color:lightgreen ;
+
+
+}
+
+p > span { color: red; }
+#header span { color: pink; }
+span { color: green; }
+#header *:last-child { color: orange; }
+#header span:first-child:hover { color: blue; }
+
+h1{
+font-style: oblique;
+color: rgb(147, 213, 171);
+}
+
